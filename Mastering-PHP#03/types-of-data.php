@@ -9,10 +9,14 @@ false;
 // Integer
 5;
 10;
+15;
+20;
 
 // Float & Double
 2.5;
 7.4;
+11.5;
+12.025;
 
 // String
 'String';
