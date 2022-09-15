@@ -1,2 +1,3 @@
 # LevelPHP
-I'm starting today 02/16 a new journey in PHP language, let's learning together?
+
+##### Hoje dia 16/02 eu comecei uma nova jornada em aprendizagem na linguagem PHP, vamos aprender juntos?
